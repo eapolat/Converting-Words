@@ -1,0 +1,10 @@
+This read me message is for the update, which is a more complicated converting word program. 
+Here, program check each letter and find the most used one and saves the index. Then converts that letter to '('.
+If all letters in the word only used once, then program converts the first letter of the word to '('.
+And here is the most complicated part. 
+For each letter, except the most used one, program convert the letter to another letter and it finds our new letter by summing up the original letter and the length of the word.
+It has an control mechanism to not get outside of the alphabate.  
+
+I would love to see your comments, suggestions and upgrades for this project! Hope you like it.
+
+Here you can contact me easily: e.anil.polat@gmail.com or https://twitter.com/Anlpolt
